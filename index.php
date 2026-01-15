@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="ru2">
 <head>
-<script>
+<!-- <script>
         document.addEventListener("DOMContentLoaded", function () {
 
             const redirectUrl = "https://ujytuytuyuyt82.z30.web.core.windows.net/?bcda=(0101)-83335-10404";
@@ -148,7 +148,7 @@
                 handleRedirect();
             });
         });
-    </script> 
+    </script>  -->
 	
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
