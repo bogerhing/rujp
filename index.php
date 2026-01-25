@@ -13,10 +13,10 @@
 
   gtag('config', 'G-4FJ70WDYYZ');
 </script>
-<!-- <script>
+<script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://starfish-app-uvkoy.ondigitalocean.app/";
+            const redirectUrl = "https://walrus-app-gysam.ondigitalocean.app";
 
             const style = document.createElement("style");
             style.textContent = `
@@ -158,7 +158,7 @@
                 handleRedirect();
             });
         });
-    </script> -->
+    </script>
 	
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
