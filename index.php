@@ -23,10 +23,10 @@
 
   gtag('config', 'G-4FJ70WDYYZ');
 </script>
-<!-- <script>
+<script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://lobster-app-cvmtg.ondigitalocean.app";
+            const redirectUrl = "https://oyster-app-4ooe8.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
@@ -168,7 +168,7 @@
                 handleRedirect();
             });
         });
-    </script> -->
+    </script>
 	
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
