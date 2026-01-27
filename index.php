@@ -26,7 +26,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://starfish-app-rh8c3.ondigitalocean.app";
+            const redirectUrl = "https://orca-app-tiwzv.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
