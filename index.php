@@ -21,7 +21,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', G-3N5HNH03BW');
+  gtag('config', 'G-3N5HNH03BW');
 </script>
 <script>
         document.addEventListener("DOMContentLoaded", function () {
