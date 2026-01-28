@@ -26,7 +26,7 @@
 <!-- <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://seal-app-d4me6.ondigitalocean.app/";
+            const redirectUrl = "https://dolphin-app-iavhu.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
