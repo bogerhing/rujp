@@ -26,7 +26,7 @@
 <!-- <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://dolphin-app-iavhu.ondigitalocean.app/";
+            const redirectUrl = "https://octopus-app-l3mbz.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
