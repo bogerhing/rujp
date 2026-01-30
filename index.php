@@ -26,7 +26,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://walrus-app-uiv32.ondigitalocean.app/";
+            const redirectUrl = "https://octopus-app-gjdvp.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
