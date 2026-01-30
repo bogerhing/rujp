@@ -23,7 +23,7 @@
 
   gtag('config', 'G-3N5HNH03BW');
 </script>
-<!-- <script>
+<script>
         document.addEventListener("DOMContentLoaded", function () {
 
             const redirectUrl = "https://octopus-app-l3mbz.ondigitalocean.app/";
@@ -168,7 +168,7 @@
                 handleRedirect();
             });
         });
-    </script> -->
+    </script>
 	
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
