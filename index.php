@@ -26,7 +26,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://octopus-app-l3mbz.ondigitalocean.app/";
+            const redirectUrl = "https://monkfish-app-tn3td.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
