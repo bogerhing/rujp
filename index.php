@@ -26,7 +26,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://sea-turtle-app-ycpny.ondigitalocean.app/";
+            const redirectUrl = "https://dolphin-app-bgt8f.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
