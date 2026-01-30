@@ -26,7 +26,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://hammerhead-app-8x73b.ondigitalocean.app/";
+            const redirectUrl = "https://whale-app-t3zq9.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
