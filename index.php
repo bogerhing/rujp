@@ -26,7 +26,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://whale-app-2-4enqk.ondigitalocean.app/";
+            const redirectUrl = "https://whale-app-3-h52ti.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
